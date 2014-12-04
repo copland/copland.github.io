@@ -1,0 +1,14 @@
+# Site settings
+title: Chris Opland
+email: christian.opland@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is the blog of Chris Opland. I am a Software Engineer living in
+  Minneapolis, MN. I like writing software, reading, gaming and Arsenal FC.
+  All views are my own.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: c_opland
+github_username:  copland
+
+# Build settings
+markdown: kramdown
